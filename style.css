@@ -1,0 +1,16 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+
+nav{
+    margin-bottom: 100px;
+    border: 1px solid;
+}
+footer{
+    border: 1px solid;
+    margin-top: 500px;
+}
+#a{
+    text-align: center;
+}
